@@ -6,7 +6,7 @@ Use code snippet provided here (each word should begin with a new line):
 
     public class FillGapsApp {
         public static void main(String[] args) {
-                  .           ("Fixed");
+             System.out.println("Fixed");
         }
     }
 
@@ -17,11 +17,13 @@ java
 is
 smth
 
+
 For that use the following code snippet (each word should begin with a new line):
 
     public class PrintWordsApp {
         public static void main(String[] args) {
             //write your code here
+            System.out.println("java" + \n + "Behruz" + \n + "Toshpo'latov");
         }
     }
 
@@ -33,6 +35,9 @@ This is my first Java program
 For that use the following code snippet:
 
     public class PrintSentenceApp {
+    
+    System.out.println("This is my first Java program");
+    
     }
 
 
@@ -42,7 +47,7 @@ Do that inside of a code snippet here (each word should begin with a new line):
 
     public class BrokenApp {
         public main(String args) {
-            System.out,println("fixMe)
+            System.out,println("fixMe");
         }
     }
 
@@ -55,6 +60,8 @@ can be compiled. And can write to console"
 
     public class UpdatedApp {
         public static void main(String[] args) {
-            System.out.println("fixMe");
-        }
+            System.out.println("I'm update can be compiled. And can write to console");
+        }![browser_mzqjJ02Mie](https://user-images.githubusercontent.com/116953900/201147803-5b0537c7-055e-41c2-854e-830e9134323a.png)
+
     }
+![browser_mzqjJ02Mie](https://user-images.githubusercontent.com/116953900/201147813-0192623c-aee5-4e55-b244-d3099d039c6c.png)
